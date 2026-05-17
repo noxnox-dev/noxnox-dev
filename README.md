@@ -1,6 +1,6 @@
 ## Nox Cowie 🐇
 
-I'm a MSc student at the University of Canterbury. My research interests are substructural logics and graph theory. 
+I'm a PhD student at the University of Sussex studying the logic and formal verification of neuro-symbolic multi-agent AI systems.
 
 <!--
 **noxnox-dev/noxnox-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
